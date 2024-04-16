@@ -34,7 +34,7 @@ void functionOne(){
 
 void functionTwo(){
 
-    int digit;                          // this is a variable
+    int digit;                          // this is a variable under functionTwo().
     
 
 //Conditionals and Logic.
