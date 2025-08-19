@@ -1,3 +1,4 @@
 # Tic-Tac-Toe
 
-Learn how to program a Tic-Tac-Toe game using C++
+Learn how to program a Tic-Tac-Toe game using C++ programming language.
+
